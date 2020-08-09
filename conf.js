@@ -89,10 +89,19 @@ jsproxy_config({
       replace: 'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png'
     },
     'https://www.pornhub.com/': {
-      content: 'We are very sorry, we have detected that you may have browsed vulgar, sex, reactionary websites, and your request has been blocked'
+      content: 'Welcome to use MoeCat service. We are very sorry, we have detected that you may have browsed vulgar, pornographic, and reactionary websites, and your request has been blocked.'
     },
     'http://www.xvideos.com/': {
-      content: 'We are very sorry, we have detected that you may have browsed vulgar, sex, reactionary websites, and your request has been blocked'
+      content: 'Welcome to use MoeCat service. We are very sorry, we have detected that you may have browsed vulgar, pornographic, and reactionary websites, and your request has been blocked.'
+    },
+    'http://www.91porn.com/': {
+      content: 'Welcome to use MoeCat service. We are very sorry, we have detected that you may have browsed vulgar, pornographic, and reactionary websites, and your request has been blocked.'
+    },
+    'http://www.ehentai.com/': {
+      content: 'Welcome to use MoeCat service. We are very sorry, we have detected that you may have browsed vulgar, pornographic, and reactionary websites, and your request has been blocked.'
+    },
+    'http://www.nhentai.com/': {
+      content: 'Welcome to use MoeCat service. We are very sorry, we have detected that you may have browsed vulgar, pornographic, and reactionary websites, and your request has been blocked.'
     },
   }
 })
