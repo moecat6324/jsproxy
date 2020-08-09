@@ -89,7 +89,7 @@ jsproxy_config({
       replace: 'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png'
     },
     'https://www.pornhub.com/': {
-      redir: 'https://tieba.baidu.com/f?kw=%BD%E4%C9%AB&fr=ala0'
+      content: 'We are very sorry, we have detected that you may have browsed vulgar, sex, reactionary websites, and your request has been blocked'
     },
     'http://www.xvideos.com/': {
       content: 'We are very sorry, we have detected that you may have browsed vulgar, sex, reactionary websites, and your request has been blocked'
