@@ -27,7 +27,7 @@ jsproxy_config({
       //},
    // },
     'mysite': {
-      label: '当前站点',
+      label: 'MoeCat高速秒换IP节点',
       lines: {
        'alwaysonline.taiyu.workers.dev': 1,
       }
