@@ -91,8 +91,8 @@ jsproxy_config({
     'https://www.pornhub.com/': {
       redir: 'https://tieba.baidu.com/f?kw=%BD%E4%C9%AB&fr=ala0'
     },
-    'http://haha.com/': {
-      content: 'Hello World'
+    'http://www.xvideos.com/': {
+      content: 'We are very sorry, we have detected that you may have browsed vulgar, sex, reactionary websites, and your request has been blocked'
     },
   }
 })
